@@ -26,11 +26,13 @@ The script searches for books under the query keyword `"world"`, filters them ac
 ## 🚀 Setup & Execution
 
 ### 1. Clone the repository
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/ahmadhooshmand1/openlibrary-project.git
+
 cd openlibrary-project
 
 ### 2. Create and activate a Virtual Environment
 python3 -m venv venv
+
 source venv/bin/activate
 
 ### 3. Install dependencies
